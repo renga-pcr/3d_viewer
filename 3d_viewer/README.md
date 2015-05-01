@@ -8,13 +8,13 @@ Css Library: threed.css
 
 Usage: (direct method)
 
-                    Download the 3d_viewer.php and include in your root directory. it works when You directly run this php in URL.
+    Download the 3d_viewer.php and include in your root directory. it works when You directly run this php in URL.
 
 Usage: (iFrame method)
 
-                    <iframe style="width:400px;height:328px;" class="render-viewer" src="/3d_viewer.php?stl_image=[filename with location here]" sandbox="allow-scripts allow-same-origin"></iframe>
+    <iframe style="width:400px;height:328px;" class="render-viewer" src="/3d_viewer.php?stl_image=[filename with location here]" sandbox="allow-scripts allow-same-origin"></iframe>
 
-                    You can customize width & height if You set iframe width and height.
+    You can customize width & height if You set iframe width and height.
 
 3d_viewer.php code review:
 
